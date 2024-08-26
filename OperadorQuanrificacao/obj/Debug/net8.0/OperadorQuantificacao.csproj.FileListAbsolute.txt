@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorQuanrificacao\bin\Debug\net8.0\OperadorQuantificacao.exe
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorQuanrificacao\bin\Debug\net8.0\OperadorQuantificacao.deps.json
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorQuanrificacao\bin\Debug\net8.0\OperadorQuantificacao.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorQuanrificacao\bin\Debug\net8.0\OperadorQuantificacao.dll
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorQuanrificacao\bin\Debug\net8.0\OperadorQuantificacao.pdb
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorQuanrificacao\obj\Debug\net8.0\OperadorQuantificacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorQuanrificacao\obj\Debug\net8.0\OperadorQuantificacao.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorQuanrificacao\obj\Debug\net8.0\OperadorQuantificacao.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorQuanrificacao\obj\Debug\net8.0\OperadorQuantificacao.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorQuanrificacao\obj\Debug\net8.0\OperadorQuantificacao.dll
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorQuanrificacao\obj\Debug\net8.0\refint\OperadorQuantificacao.dll
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorQuanrificacao\obj\Debug\net8.0\OperadorQuantificacao.pdb
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorQuanrificacao\obj\Debug\net8.0\OperadorQuantificacao.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorQuanrificacao\obj\Debug\net8.0\ref\OperadorQuantificacao.dll

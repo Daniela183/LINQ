@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadoresAgregacao\bin\Debug\net8.0\OperadoresAgregacao.exe
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadoresAgregacao\bin\Debug\net8.0\OperadoresAgregacao.deps.json
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadoresAgregacao\bin\Debug\net8.0\OperadoresAgregacao.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadoresAgregacao\bin\Debug\net8.0\OperadoresAgregacao.dll
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadoresAgregacao\bin\Debug\net8.0\OperadoresAgregacao.pdb
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadoresAgregacao\obj\Debug\net8.0\OperadoresAgregacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadoresAgregacao\obj\Debug\net8.0\OperadoresAgregacao.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadoresAgregacao\obj\Debug\net8.0\OperadoresAgregacao.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadoresAgregacao\obj\Debug\net8.0\OperadoresAgregacao.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadoresAgregacao\obj\Debug\net8.0\OperadoresAgregacao.dll
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadoresAgregacao\obj\Debug\net8.0\refint\OperadoresAgregacao.dll
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadoresAgregacao\obj\Debug\net8.0\OperadoresAgregacao.pdb
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadoresAgregacao\obj\Debug\net8.0\OperadoresAgregacao.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadoresAgregacao\obj\Debug\net8.0\ref\OperadoresAgregacao.dll

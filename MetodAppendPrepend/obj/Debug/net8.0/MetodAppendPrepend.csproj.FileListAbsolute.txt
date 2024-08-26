@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\LINQ\MetodAppendPrepend\bin\Debug\net8.0\MetodAppendPrepend.exe
+C:\Users\danie\Desktop\cursoC#\LINQ\MetodAppendPrepend\bin\Debug\net8.0\MetodAppendPrepend.deps.json
+C:\Users\danie\Desktop\cursoC#\LINQ\MetodAppendPrepend\bin\Debug\net8.0\MetodAppendPrepend.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\LINQ\MetodAppendPrepend\bin\Debug\net8.0\MetodAppendPrepend.dll
+C:\Users\danie\Desktop\cursoC#\LINQ\MetodAppendPrepend\bin\Debug\net8.0\MetodAppendPrepend.pdb
+C:\Users\danie\Desktop\cursoC#\LINQ\MetodAppendPrepend\obj\Debug\net8.0\MetodAppendPrepend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\LINQ\MetodAppendPrepend\obj\Debug\net8.0\MetodAppendPrepend.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\LINQ\MetodAppendPrepend\obj\Debug\net8.0\MetodAppendPrepend.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\LINQ\MetodAppendPrepend\obj\Debug\net8.0\MetodAppendPrepend.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\LINQ\MetodAppendPrepend\obj\Debug\net8.0\MetodAppendPrepend.dll
+C:\Users\danie\Desktop\cursoC#\LINQ\MetodAppendPrepend\obj\Debug\net8.0\refint\MetodAppendPrepend.dll
+C:\Users\danie\Desktop\cursoC#\LINQ\MetodAppendPrepend\obj\Debug\net8.0\MetodAppendPrepend.pdb
+C:\Users\danie\Desktop\cursoC#\LINQ\MetodAppendPrepend\obj\Debug\net8.0\MetodAppendPrepend.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\LINQ\MetodAppendPrepend\obj\Debug\net8.0\ref\MetodAppendPrepend.dll

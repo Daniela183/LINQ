@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorElementoI\obj\Debug\net8.0\OperadorElementoI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorElementoI\obj\Debug\net8.0\OperadorElementoI.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorElementoI\obj\Debug\net8.0\OperadorElementoI.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorElementoI\obj\Debug\net8.0\OperadorElementoI.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorElementoI\bin\Debug\net8.0\OperadorElementoI.exe
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorElementoI\bin\Debug\net8.0\OperadorElementoI.deps.json
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorElementoI\bin\Debug\net8.0\OperadorElementoI.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorElementoI\bin\Debug\net8.0\OperadorElementoI.dll
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorElementoI\bin\Debug\net8.0\OperadorElementoI.pdb
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorElementoI\obj\Debug\net8.0\OperadorElementoI.dll
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorElementoI\obj\Debug\net8.0\refint\OperadorElementoI.dll
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorElementoI\obj\Debug\net8.0\OperadorElementoI.pdb
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorElementoI\obj\Debug\net8.0\OperadorElementoI.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorElementoI\obj\Debug\net8.0\ref\OperadorElementoI.dll

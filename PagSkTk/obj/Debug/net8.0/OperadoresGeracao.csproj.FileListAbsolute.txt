@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\LINQ\PagSkTk\bin\Debug\net8.0\OperadoresGeracao.exe
+C:\Users\danie\Desktop\cursoC#\LINQ\PagSkTk\bin\Debug\net8.0\OperadoresGeracao.deps.json
+C:\Users\danie\Desktop\cursoC#\LINQ\PagSkTk\bin\Debug\net8.0\OperadoresGeracao.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\LINQ\PagSkTk\bin\Debug\net8.0\OperadoresGeracao.dll
+C:\Users\danie\Desktop\cursoC#\LINQ\PagSkTk\bin\Debug\net8.0\OperadoresGeracao.pdb
+C:\Users\danie\Desktop\cursoC#\LINQ\PagSkTk\obj\Debug\net8.0\OperadoresGeracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\LINQ\PagSkTk\obj\Debug\net8.0\OperadoresGeracao.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\LINQ\PagSkTk\obj\Debug\net8.0\OperadoresGeracao.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\LINQ\PagSkTk\obj\Debug\net8.0\OperadoresGeracao.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\LINQ\PagSkTk\obj\Debug\net8.0\OperadoresGeracao.dll
+C:\Users\danie\Desktop\cursoC#\LINQ\PagSkTk\obj\Debug\net8.0\refint\OperadoresGeracao.dll
+C:\Users\danie\Desktop\cursoC#\LINQ\PagSkTk\obj\Debug\net8.0\OperadoresGeracao.pdb
+C:\Users\danie\Desktop\cursoC#\LINQ\PagSkTk\obj\Debug\net8.0\OperadoresGeracao.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\LINQ\PagSkTk\obj\Debug\net8.0\ref\OperadoresGeracao.dll

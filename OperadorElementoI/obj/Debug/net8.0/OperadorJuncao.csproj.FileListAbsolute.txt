@@ -1,0 +1,4 @@
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorElementoI\obj\Debug\net8.0\OperadorJuncao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorElementoI\obj\Debug\net8.0\OperadorJuncao.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorElementoI\obj\Debug\net8.0\OperadorJuncao.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorElementoI\obj\Debug\net8.0\OperadorJuncao.csproj.CoreCompileInputs.cache

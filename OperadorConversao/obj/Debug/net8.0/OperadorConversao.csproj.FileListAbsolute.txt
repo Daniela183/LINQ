@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorConversao\bin\Debug\net8.0\OperadorConversao.exe
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorConversao\bin\Debug\net8.0\OperadorConversao.deps.json
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorConversao\bin\Debug\net8.0\OperadorConversao.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorConversao\bin\Debug\net8.0\OperadorConversao.dll
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorConversao\bin\Debug\net8.0\OperadorConversao.pdb
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorConversao\obj\Debug\net8.0\OperadorConversao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorConversao\obj\Debug\net8.0\OperadorConversao.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorConversao\obj\Debug\net8.0\OperadorConversao.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorConversao\obj\Debug\net8.0\OperadorConversao.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorConversao\obj\Debug\net8.0\OperadorConversao.dll
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorConversao\obj\Debug\net8.0\refint\OperadorConversao.dll
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorConversao\obj\Debug\net8.0\OperadorConversao.pdb
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorConversao\obj\Debug\net8.0\OperadorConversao.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorConversao\obj\Debug\net8.0\ref\OperadorConversao.dll

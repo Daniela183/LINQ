@@ -1,0 +1,4 @@
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorElementoI\obj\Debug\net8.0\OperadorElementoI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorElementoI\obj\Debug\net8.0\OperadorElementoI.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorElementoI\obj\Debug\net8.0\OperadorElementoI.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorElementoI\obj\Debug\net8.0\OperadorElementoI.csproj.CoreCompileInputs.cache

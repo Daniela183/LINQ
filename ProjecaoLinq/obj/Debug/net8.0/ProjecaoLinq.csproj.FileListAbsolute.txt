@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\LINQ\ProjecaoLinq\bin\Debug\net8.0\ProjecaoLinq.exe
+C:\Users\danie\Desktop\cursoC#\LINQ\ProjecaoLinq\bin\Debug\net8.0\ProjecaoLinq.deps.json
+C:\Users\danie\Desktop\cursoC#\LINQ\ProjecaoLinq\bin\Debug\net8.0\ProjecaoLinq.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\LINQ\ProjecaoLinq\bin\Debug\net8.0\ProjecaoLinq.dll
+C:\Users\danie\Desktop\cursoC#\LINQ\ProjecaoLinq\bin\Debug\net8.0\ProjecaoLinq.pdb
+C:\Users\danie\Desktop\cursoC#\LINQ\ProjecaoLinq\obj\Debug\net8.0\ProjecaoLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\LINQ\ProjecaoLinq\obj\Debug\net8.0\ProjecaoLinq.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\LINQ\ProjecaoLinq\obj\Debug\net8.0\ProjecaoLinq.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\LINQ\ProjecaoLinq\obj\Debug\net8.0\ProjecaoLinq.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\LINQ\ProjecaoLinq\obj\Debug\net8.0\ProjecaoLinq.dll
+C:\Users\danie\Desktop\cursoC#\LINQ\ProjecaoLinq\obj\Debug\net8.0\refint\ProjecaoLinq.dll
+C:\Users\danie\Desktop\cursoC#\LINQ\ProjecaoLinq\obj\Debug\net8.0\ProjecaoLinq.pdb
+C:\Users\danie\Desktop\cursoC#\LINQ\ProjecaoLinq\obj\Debug\net8.0\ProjecaoLinq.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\LINQ\ProjecaoLinq\obj\Debug\net8.0\ref\ProjecaoLinq.dll

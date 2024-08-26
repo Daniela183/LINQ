@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\LINQ\PaginacaoSkipTake\bin\Debug\net8.0\PaginacaoSkipTake.exe
+C:\Users\danie\Desktop\cursoC#\LINQ\PaginacaoSkipTake\bin\Debug\net8.0\PaginacaoSkipTake.deps.json
+C:\Users\danie\Desktop\cursoC#\LINQ\PaginacaoSkipTake\bin\Debug\net8.0\PaginacaoSkipTake.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\LINQ\PaginacaoSkipTake\bin\Debug\net8.0\PaginacaoSkipTake.dll
+C:\Users\danie\Desktop\cursoC#\LINQ\PaginacaoSkipTake\bin\Debug\net8.0\PaginacaoSkipTake.pdb
+C:\Users\danie\Desktop\cursoC#\LINQ\PaginacaoSkipTake\obj\Debug\net8.0\PaginacaoSkipTake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\LINQ\PaginacaoSkipTake\obj\Debug\net8.0\PaginacaoSkipTake.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\LINQ\PaginacaoSkipTake\obj\Debug\net8.0\PaginacaoSkipTake.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\LINQ\PaginacaoSkipTake\obj\Debug\net8.0\PaginacaoSkipTake.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\LINQ\PaginacaoSkipTake\obj\Debug\net8.0\PaginacaoSkipTake.dll
+C:\Users\danie\Desktop\cursoC#\LINQ\PaginacaoSkipTake\obj\Debug\net8.0\refint\PaginacaoSkipTake.dll
+C:\Users\danie\Desktop\cursoC#\LINQ\PaginacaoSkipTake\obj\Debug\net8.0\PaginacaoSkipTake.pdb
+C:\Users\danie\Desktop\cursoC#\LINQ\PaginacaoSkipTake\obj\Debug\net8.0\PaginacaoSkipTake.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\LINQ\PaginacaoSkipTake\obj\Debug\net8.0\ref\PaginacaoSkipTake.dll

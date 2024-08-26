@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\LINQ\ConsultasLinq\obj\Debug\net8.0\ConsultasLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\LINQ\ConsultasLinq\obj\Debug\net8.0\ConsultasLinq.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\LINQ\ConsultasLinq\obj\Debug\net8.0\ConsultasLinq.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\LINQ\ConsultasLinq\obj\Debug\net8.0\ConsultasLinq.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\LINQ\ConsultasLinq\bin\Debug\net8.0\ConsultasLinq.exe
+C:\Users\danie\Desktop\cursoC#\LINQ\ConsultasLinq\bin\Debug\net8.0\ConsultasLinq.deps.json
+C:\Users\danie\Desktop\cursoC#\LINQ\ConsultasLinq\bin\Debug\net8.0\ConsultasLinq.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\LINQ\ConsultasLinq\bin\Debug\net8.0\ConsultasLinq.dll
+C:\Users\danie\Desktop\cursoC#\LINQ\ConsultasLinq\bin\Debug\net8.0\ConsultasLinq.pdb
+C:\Users\danie\Desktop\cursoC#\LINQ\ConsultasLinq\obj\Debug\net8.0\ConsultasLinq.dll
+C:\Users\danie\Desktop\cursoC#\LINQ\ConsultasLinq\obj\Debug\net8.0\refint\ConsultasLinq.dll
+C:\Users\danie\Desktop\cursoC#\LINQ\ConsultasLinq\obj\Debug\net8.0\ConsultasLinq.pdb
+C:\Users\danie\Desktop\cursoC#\LINQ\ConsultasLinq\obj\Debug\net8.0\ConsultasLinq.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\LINQ\ConsultasLinq\obj\Debug\net8.0\ref\ConsultasLinq.dll

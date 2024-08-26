@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorJuncaoIeII\bin\Debug\net8.0\OperadorJuncaoIeII.exe
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorJuncaoIeII\bin\Debug\net8.0\OperadorJuncaoIeII.deps.json
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorJuncaoIeII\bin\Debug\net8.0\OperadorJuncaoIeII.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorJuncaoIeII\bin\Debug\net8.0\OperadorJuncaoIeII.dll
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorJuncaoIeII\bin\Debug\net8.0\OperadorJuncaoIeII.pdb
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorJuncaoIeII\obj\Debug\net8.0\OperadorJuncaoIeII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorJuncaoIeII\obj\Debug\net8.0\OperadorJuncaoIeII.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorJuncaoIeII\obj\Debug\net8.0\OperadorJuncaoIeII.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorJuncaoIeII\obj\Debug\net8.0\OperadorJuncaoIeII.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorJuncaoIeII\obj\Debug\net8.0\OperadorJuncaoIeII.dll
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorJuncaoIeII\obj\Debug\net8.0\refint\OperadorJuncaoIeII.dll
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorJuncaoIeII\obj\Debug\net8.0\OperadorJuncaoIeII.pdb
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorJuncaoIeII\obj\Debug\net8.0\OperadorJuncaoIeII.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadorJuncaoIeII\obj\Debug\net8.0\ref\OperadorJuncaoIeII.dll

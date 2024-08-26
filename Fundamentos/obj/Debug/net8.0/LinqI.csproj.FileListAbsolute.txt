@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\LINQ\Fundamentos\bin\Debug\net8.0\LinqI.exe
+C:\Users\danie\Desktop\cursoC#\LINQ\Fundamentos\bin\Debug\net8.0\LinqI.deps.json
+C:\Users\danie\Desktop\cursoC#\LINQ\Fundamentos\bin\Debug\net8.0\LinqI.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\LINQ\Fundamentos\bin\Debug\net8.0\LinqI.dll
+C:\Users\danie\Desktop\cursoC#\LINQ\Fundamentos\bin\Debug\net8.0\LinqI.pdb
+C:\Users\danie\Desktop\cursoC#\LINQ\Fundamentos\obj\Debug\net8.0\LinqI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\LINQ\Fundamentos\obj\Debug\net8.0\LinqI.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\LINQ\Fundamentos\obj\Debug\net8.0\LinqI.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\LINQ\Fundamentos\obj\Debug\net8.0\LinqI.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\LINQ\Fundamentos\obj\Debug\net8.0\LinqI.dll
+C:\Users\danie\Desktop\cursoC#\LINQ\Fundamentos\obj\Debug\net8.0\refint\LinqI.dll
+C:\Users\danie\Desktop\cursoC#\LINQ\Fundamentos\obj\Debug\net8.0\LinqI.pdb
+C:\Users\danie\Desktop\cursoC#\LINQ\Fundamentos\obj\Debug\net8.0\LinqI.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\LINQ\Fundamentos\obj\Debug\net8.0\ref\LinqI.dll

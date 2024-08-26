@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadoresElementos\bin\Debug\net8.0\OperadoresElementos.exe
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadoresElementos\bin\Debug\net8.0\OperadoresElementos.deps.json
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadoresElementos\bin\Debug\net8.0\OperadoresElementos.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadoresElementos\bin\Debug\net8.0\OperadoresElementos.dll
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadoresElementos\bin\Debug\net8.0\OperadoresElementos.pdb
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadoresElementos\obj\Debug\net8.0\OperadoresElementos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadoresElementos\obj\Debug\net8.0\OperadoresElementos.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadoresElementos\obj\Debug\net8.0\OperadoresElementos.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadoresElementos\obj\Debug\net8.0\OperadoresElementos.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadoresElementos\obj\Debug\net8.0\OperadoresElementos.dll
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadoresElementos\obj\Debug\net8.0\refint\OperadoresElementos.dll
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadoresElementos\obj\Debug\net8.0\OperadoresElementos.pdb
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadoresElementos\obj\Debug\net8.0\OperadoresElementos.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadoresElementos\obj\Debug\net8.0\ref\OperadoresElementos.dll

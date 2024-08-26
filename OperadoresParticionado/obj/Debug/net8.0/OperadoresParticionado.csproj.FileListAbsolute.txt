@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadoresParticionado\bin\Debug\net8.0\OperadoresParticionado.exe
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadoresParticionado\bin\Debug\net8.0\OperadoresParticionado.deps.json
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadoresParticionado\bin\Debug\net8.0\OperadoresParticionado.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadoresParticionado\bin\Debug\net8.0\OperadoresParticionado.dll
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadoresParticionado\bin\Debug\net8.0\OperadoresParticionado.pdb
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadoresParticionado\obj\Debug\net8.0\OperadoresParticionado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadoresParticionado\obj\Debug\net8.0\OperadoresParticionado.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadoresParticionado\obj\Debug\net8.0\OperadoresParticionado.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadoresParticionado\obj\Debug\net8.0\OperadoresParticionado.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadoresParticionado\obj\Debug\net8.0\OperadoresParticionado.dll
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadoresParticionado\obj\Debug\net8.0\refint\OperadoresParticionado.dll
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadoresParticionado\obj\Debug\net8.0\OperadoresParticionado.pdb
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadoresParticionado\obj\Debug\net8.0\OperadoresParticionado.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadoresParticionado\obj\Debug\net8.0\ref\OperadoresParticionado.dll

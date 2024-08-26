@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\LINQ\OperdoresOrdenados\bin\Debug\net8.0\OperdoresOrdenados.exe
+C:\Users\danie\Desktop\cursoC#\LINQ\OperdoresOrdenados\bin\Debug\net8.0\OperdoresOrdenados.deps.json
+C:\Users\danie\Desktop\cursoC#\LINQ\OperdoresOrdenados\bin\Debug\net8.0\OperdoresOrdenados.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\LINQ\OperdoresOrdenados\bin\Debug\net8.0\OperdoresOrdenados.dll
+C:\Users\danie\Desktop\cursoC#\LINQ\OperdoresOrdenados\bin\Debug\net8.0\OperdoresOrdenados.pdb
+C:\Users\danie\Desktop\cursoC#\LINQ\OperdoresOrdenados\obj\Debug\net8.0\OperdoresOrdenados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\LINQ\OperdoresOrdenados\obj\Debug\net8.0\OperdoresOrdenados.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\LINQ\OperdoresOrdenados\obj\Debug\net8.0\OperdoresOrdenados.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\LINQ\OperdoresOrdenados\obj\Debug\net8.0\OperdoresOrdenados.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\LINQ\OperdoresOrdenados\obj\Debug\net8.0\OperdoresOrdenados.dll
+C:\Users\danie\Desktop\cursoC#\LINQ\OperdoresOrdenados\obj\Debug\net8.0\refint\OperdoresOrdenados.dll
+C:\Users\danie\Desktop\cursoC#\LINQ\OperdoresOrdenados\obj\Debug\net8.0\OperdoresOrdenados.pdb
+C:\Users\danie\Desktop\cursoC#\LINQ\OperdoresOrdenados\obj\Debug\net8.0\OperdoresOrdenados.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\LINQ\OperdoresOrdenados\obj\Debug\net8.0\ref\OperdoresOrdenados.dll

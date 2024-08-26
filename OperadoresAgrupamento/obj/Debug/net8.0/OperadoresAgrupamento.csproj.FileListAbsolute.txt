@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadoresAgrupamento\bin\Debug\net8.0\OperadoresAgrupamento.exe
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadoresAgrupamento\bin\Debug\net8.0\OperadoresAgrupamento.deps.json
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadoresAgrupamento\bin\Debug\net8.0\OperadoresAgrupamento.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadoresAgrupamento\bin\Debug\net8.0\OperadoresAgrupamento.dll
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadoresAgrupamento\bin\Debug\net8.0\OperadoresAgrupamento.pdb
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadoresAgrupamento\obj\Debug\net8.0\OperadoresAgrupamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadoresAgrupamento\obj\Debug\net8.0\OperadoresAgrupamento.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadoresAgrupamento\obj\Debug\net8.0\OperadoresAgrupamento.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadoresAgrupamento\obj\Debug\net8.0\OperadoresAgrupamento.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadoresAgrupamento\obj\Debug\net8.0\OperadoresAgrupamento.dll
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadoresAgrupamento\obj\Debug\net8.0\refint\OperadoresAgrupamento.dll
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadoresAgrupamento\obj\Debug\net8.0\OperadoresAgrupamento.pdb
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadoresAgrupamento\obj\Debug\net8.0\OperadoresAgrupamento.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\LINQ\OperadoresAgrupamento\obj\Debug\net8.0\ref\OperadoresAgrupamento.dll

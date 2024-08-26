@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\LINQ\OperacaoJunção\bin\Debug\net7.0\OperacaoJunção.exe
+C:\Users\danie\Desktop\cursoC#\LINQ\OperacaoJunção\bin\Debug\net7.0\OperacaoJunção.deps.json
+C:\Users\danie\Desktop\cursoC#\LINQ\OperacaoJunção\bin\Debug\net7.0\OperacaoJunção.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\LINQ\OperacaoJunção\bin\Debug\net7.0\OperacaoJunção.dll
+C:\Users\danie\Desktop\cursoC#\LINQ\OperacaoJunção\bin\Debug\net7.0\OperacaoJunção.pdb
+C:\Users\danie\Desktop\cursoC#\LINQ\OperacaoJunção\obj\Debug\net7.0\OperacaoJunção.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\LINQ\OperacaoJunção\obj\Debug\net7.0\OperacaoJunção.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\LINQ\OperacaoJunção\obj\Debug\net7.0\OperacaoJunção.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\LINQ\OperacaoJunção\obj\Debug\net7.0\OperacaoJunção.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\LINQ\OperacaoJunção\obj\Debug\net7.0\OperacaoJunção.dll
+C:\Users\danie\Desktop\cursoC#\LINQ\OperacaoJunção\obj\Debug\net7.0\refint\OperacaoJunção.dll
+C:\Users\danie\Desktop\cursoC#\LINQ\OperacaoJunção\obj\Debug\net7.0\OperacaoJunção.pdb
+C:\Users\danie\Desktop\cursoC#\LINQ\OperacaoJunção\obj\Debug\net7.0\OperacaoJunção.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\LINQ\OperacaoJunção\obj\Debug\net7.0\ref\OperacaoJunção.dll

@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\LINQ\OperConjuntosI\bin\Debug\net8.0\OperConjuntosI.exe
+C:\Users\danie\Desktop\cursoC#\LINQ\OperConjuntosI\bin\Debug\net8.0\OperConjuntosI.deps.json
+C:\Users\danie\Desktop\cursoC#\LINQ\OperConjuntosI\bin\Debug\net8.0\OperConjuntosI.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\LINQ\OperConjuntosI\bin\Debug\net8.0\OperConjuntosI.dll
+C:\Users\danie\Desktop\cursoC#\LINQ\OperConjuntosI\bin\Debug\net8.0\OperConjuntosI.pdb
+C:\Users\danie\Desktop\cursoC#\LINQ\OperConjuntosI\obj\Debug\net8.0\OperConjuntosI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\LINQ\OperConjuntosI\obj\Debug\net8.0\OperConjuntosI.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\LINQ\OperConjuntosI\obj\Debug\net8.0\OperConjuntosI.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\LINQ\OperConjuntosI\obj\Debug\net8.0\OperConjuntosI.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\LINQ\OperConjuntosI\obj\Debug\net8.0\OperConjuntosI.dll
+C:\Users\danie\Desktop\cursoC#\LINQ\OperConjuntosI\obj\Debug\net8.0\refint\OperConjuntosI.dll
+C:\Users\danie\Desktop\cursoC#\LINQ\OperConjuntosI\obj\Debug\net8.0\OperConjuntosI.pdb
+C:\Users\danie\Desktop\cursoC#\LINQ\OperConjuntosI\obj\Debug\net8.0\OperConjuntosI.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\LINQ\OperConjuntosI\obj\Debug\net8.0\ref\OperConjuntosI.dll
